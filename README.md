@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jooeelexe, living in Germany and studying computer science in high school
-- 👀 I’m interested in Java, Python, HTML and CSS
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Java, Python, HTML, CSS and JavaScript
+- 🌱 I’m currently learning Java and JavaScript
 - 📫 You can reach me via twitter @jooeelexe or discord jooeel#6644
 
 <!---
