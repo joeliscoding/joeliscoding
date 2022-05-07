@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @joeliscoding, living in Germany and studying computer science in high school
-- 👀 I’m interested in Java, Python, HTML, CSS and JavaScript
-- 🌱 I’m currently learning Java and Flutter
+- 👋 Hi, I’m @joeliscoding, living in Germany and learning computer science
+- 👀 I’m interested in Java, HTML, CSS, JavaScript and Node.js
+- 🌱 I’m currently learning Java and Node.js
 - 📫 You can reach me via twitter @joeliscoding
 
 <!---
