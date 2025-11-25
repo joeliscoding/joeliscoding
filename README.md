@@ -1,5 +1,7 @@
 hello world! my name is joel. i'm a tech enthusiast based in germany
 
+---
+
 ### things i like
 
 <img src="./assets/img/clippy.webp" alt="clippy" align="right" width="10%" />
