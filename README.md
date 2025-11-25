@@ -2,7 +2,7 @@ hello world! my name is joel. i'm a tech enthusiast based in germany
 
 #### things i like
 
-<img src="./assets/img/clippy.webp" alt="clippy" align="right" width="15%" />
+<img src="./assets/img/clippy.webp" alt="clippy" align="right" width="10%" />
 
 - 👨‍💻 coding
 - 🎧 music
@@ -22,7 +22,7 @@ hello world! my name is joel. i'm a tech enthusiast based in germany
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
 ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
