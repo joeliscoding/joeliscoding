@@ -1,6 +1,6 @@
 hello world! my name is joel. i'm a tech enthusiast based in germany
 
-#### things i like
+### things i like
 
 <img src="./assets/img/clippy.webp" alt="clippy" align="right" width="10%" />
 
@@ -9,14 +9,14 @@ hello world! my name is joel. i'm a tech enthusiast based in germany
 - 🎨 creativity
 - 🖼️ art
 
-#### things i don't like
+### things i don't like
 
 - 🤖 ai "art"
 - 💸 corporate greed
 
 ---
 
-#### tech i use / tech i'm currently learning.
+### tech i use / tech i'm currently learning.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -36,6 +36,6 @@ hello world! my name is joel. i'm a tech enthusiast based in germany
 
 ---
 
-#### activity
+### activity
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joeliscoding&theme=github_dark)
