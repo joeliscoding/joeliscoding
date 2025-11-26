@@ -11,11 +11,6 @@ hello world! my name is joel. i'm a tech enthusiast based in germany
 - 🎨 creativity
 - 🖼️ art
 
-### things i don't like
-
-- 🤖 ai "art"
-- 💸 corporate greed
-
 ---
 
 ### tech i use / tech i'm currently learning.
