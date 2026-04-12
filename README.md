@@ -10,7 +10,7 @@ i'm currently studying computer science at karlsruhe university of applied scien
 
 <br>
 
-<p align="left">
+<p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=java,go,py,svelte,typescript,html,css,sass,bash,git,docker,linux,arch&theme=dark" />
   </a>
