@@ -9,8 +9,6 @@ i'm currently studying computer science at karlsruhe university of applied scien
 - 🎶 [tuitunes](#) – music player controlled by the terminal (WIP 🏗️)
 
 <br>
-<hr style="border: none; height: 1px; color: #3E444C; background-color: #3E444C">
-<br>
 
 <p align="left">
   <a href="#">
