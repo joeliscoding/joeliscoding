@@ -1,6 +1,6 @@
-<img src="./assets/img/clippy.webp" alt="clippy" align="right" width="75px" />
-
 ### 👋 hello world, i'm joel
+
+<img src="./assets/img/clippy.webp" alt="clippy" align="right" width="75px" />
 
 i'm currently studying computer science at karlsruhe university of applied sciences.
 
@@ -8,7 +8,7 @@ i'm currently studying computer science at karlsruhe university of applied scien
 - 🔧 [geile.tools](https://geile.tools) – collection of useful tools (WIP 🏗️)
 - 🎶 [tuitunes](#) – music player controlled by the terminal (WIP 🏗️)
 
-<br>
+<br><br>
 
 <p align="center">
   <a href="#">
