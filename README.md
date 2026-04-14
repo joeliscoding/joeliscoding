@@ -6,7 +6,7 @@ i'm currently studying computer science at karlsruhe university of applied scien
 
 ### 📂 projects/
 - 🔧 [geile.tools](https://geile.tools) – collection of useful tools (WIP 🏗️)
-- 🎶 [tuitunes](#) – music player controlled by the terminal (WIP 🏗️)
+- 🎶 [tuitunes](https://github.com/joeliscoding/tuitunes) – music player controlled by the terminal (WIP 🏗️)
 
 <br>
 
